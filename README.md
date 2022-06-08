@@ -1,0 +1,2 @@
+# dotNetApp
+Building simple dotNetApp
